@@ -1,0 +1,6 @@
+{ 
+"draw": 1,"recordsTotal" :1, "recordsFiltered": 1, 
+ "data": 
+[ 
+{"bf_blv_feld_1":null,"auftragsnummer":"EK16110707 vom 07.09.2015","kontrolldatum":"16.09.18","notiz":" ","bf_blv_feld_7":null,"bf_blv_feld_6":"2","bf_blv_feld_9":null,"belegart":"AB ","bf_blv_feld_8":null,"bf_blv_feld_3":"15.06.18","bf_blv_feld_2":"2018-06-15","bf_blv_feld_5":"N","bf_blv_feld_4":"02 STICK JURA MUSTER","belegnr":"534960","bf_blv_feld_10":null,"bf_blv_feld_11":null,"lieferdatum":"01.01.70","text":"bg baf6 baf7 1234","position":[{"positionn":"123","artikelnr":"123","menge":"dfgfdg"},{"positionn":"123","artikelnr":"234","menge":"asass"},{"positionn":"123","artikelnr":"345","menge":"sdfdsf"}]}] 
+ }
